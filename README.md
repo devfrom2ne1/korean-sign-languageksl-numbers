@@ -9,8 +9,7 @@
   
 - 🏁 **관련 해커톤:** [DACON 공식 페이지 바로가기](https://dacon.io/competitions/official/235896/data)
   
-- 💡 **기대 효과:**  
-  시각적 입력(손모양 이미지)을 통해 수화를 숫자로 인식 → 청각장애인을 위한 보조 기술의 가능성 모색
+- 💡 **기대 효과** : 시각적 입력(손모양 이미지)을 통해 수화를 숫자로 인식 → 청각장애인을 위한 보조 기술의 가능성 모색
   <img width="680" alt="Image" src="https://github.com/user-attachments/assets/fc8a0dc3-8ce6-443f-b8d6-037313d7ff9d" />
 
 ---
